@@ -1,0 +1,2 @@
+# StartGit
+start git
